@@ -5,7 +5,7 @@
 Python reimplementation of [cos-tool](https://github.com/canonical/cos-tool).
 
 Transforms PromQL/LogQL expressions on the fly, and validates that Alert rules
-can be loaded successfully by either Prometheus or Loki.
+can be loaded successfully by either Prometheus/Mimir or Loki.
 
 ## Installation
 
